@@ -5,7 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-dubey-59826521b/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/prashantxy)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/pdubey1924/)
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-yellow?style=flat-square&logo=codeforces)](https://codeforces.com/profile/pdubey1924)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-yellow?style=flat-square&logo=codeforces)]
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/pdubeyzunu/)
 
 ---
 
