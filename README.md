@@ -19,20 +19,36 @@
 ---
 
 ### ⚡ Tech Stack:
+
 #### 💻 **Languages:**
-- **C++**, **Python**, **Java**, **JavaScript**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### 🔍 **AI/ML & Data Science:**
-- Machine Learning, LLMs
-- **TensorFlow**, **PyTorch**, **scikit-learn**
-  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 #### 🌐 **Web2 & Web3 Development:**
-- Frontend: **React**, **HTML**, **CSS**,**Next**
-- Backend: **Node.js**, **Express**, **MongoDB**,**django**,**springboot**
-- Web3: **Solidity**, **Smart Contracts**
+- **Frontend:**
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- **Backend:**
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+- **Web3:**
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+  ![Conflux](https://img.shields.io/badge/Conflux-1A9AD7?style=flat-square&logo=conflux&logoColor=white)
 
 #### 📱 **App Development:**
-- **Flutter**, **React Native**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -42,8 +58,6 @@
 - **Achievements:**
   - Cryptic Hunt winner at a national-level hackathon (DTU)
   - 4th rank in Tekathon (SIH hackathon)
-  - Winner of Nasa Space app challenge (Global Nominee)
-  - Winner of Code For Earth Hackathon.
 
 ---
 
@@ -74,5 +88,4 @@ I love cracking algorithms while sipping chai ☕ and I enjoy gaming during my d
 ---
 
 ### 🌐 Let's Connect:
-Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/prashant-dubey-59826521b/) or check out my work on [GitHub](https://github.com/prashantxy)!
-
+Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/prashant-dubey-59826521b/), check out my [GitHub](https://github.com/prashantxy), or follow my competitive programming journey on [GeeksforGeeks](https://www.geeksforgeeks.org/user/pdubeyzunu/).
