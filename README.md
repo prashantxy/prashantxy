@@ -60,24 +60,11 @@
 - **Pupil** on **Codeforces**, rated **1600** on **LeetCode**, and frequent competitor at GeeksforGeeks.
 - **Achievements:**
   - Cryptic Hunt winner at a national-level hackathon (DTU)
-  - 4th rank in Tekathon (SIH hackathon)
+  -Nasa Space App Challenge Winner 2024 Global Nominee
 
 ---
 
-### 🚀 Projects:
-- **Smart Fleet Management:**  
-  - ML-based dynamic route optimization and bus maintenance system using **Conflux** blockchain.  
-  - [GitHub Link](https://github.com/prashantxy/ALGOOPTIMA)
-  
-- **ITGO:**  
-  - Cloud-optimized satellite data pipeline with **GeoTIFF** images and **AWS**.  
-  - [GitHub Link](https://github.com/prashantxy/ITGO)
-  
-- **Cryptic:**  
-  - CNN-based model training on encrypted data with YOLO for cryptography.  
-  - [GitHub Link](https://github.com/prashantxy/Cryptic)
 
----
 
 ### 📈 Stats:
 ![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantxy&show_icons=true&theme=radical)
@@ -90,5 +77,3 @@ I love cracking algorithms while sipping chai ☕ and I enjoy gaming during my d
 
 ---
 
-### 🌐 Let's Connect:
-Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/prashant-dubey-59826521b/), check out my [GitHub](https://github.com/prashantxy), or follow my competitive programming journey on [GeeksforGeeks](https://www.geeksforgeeks.org/user/pdubeyzunu/).
