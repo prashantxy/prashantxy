@@ -60,6 +60,7 @@
 - **Pupil** on **Codeforces**, rated **1600** on **LeetCode**, and frequent competitor at GeeksforGeeks.
 - **Achievements:**
   - Cryptic Hunt winner at a national-level hackathon (DTU)
+  - 
   -Nasa Space App Challenge Winner 2024 Global Nominee
 
 ---
