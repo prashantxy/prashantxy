@@ -1,12 +1,11 @@
 # Hi, I'm Prashant Dubey! 👋
+![DALL·E 2024-11-08 00 49 15 - An animated hacker-inspired design with a dark, neon-colored aesthetic  The design should feature digital code running in the background, glowing line](https://github.com/user-attachments/assets/24252923-60e2-434f-be20-8794552362e9)
+
 
 ### 🚀 AI/ML Enthusiast | Web2 & Web3 Developer | App Developer | DSA Geek | Competitive Programmer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-dubey-59826521b/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/prashantxy)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)]
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-yellow?style=flat-square&logo=codeforces)]
-[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=flat-square&logo=geeksforgeeks)}
 
 ---
 
@@ -41,8 +40,6 @@
 - **Backend:**
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Web3:**
@@ -50,14 +47,13 @@
   ![Conflux](https://img.shields.io/badge/Conflux-1A9AD7?style=flat-square&logo=conflux&logoColor=white)
 
 #### 📱 **App Development:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 🏆 Competitive Programming:
 - Solved **1000+ problems** on multiple platforms.
-- **Pupil** on **Codeforces**, rated **1600** on **LeetCode**, and frequent competitor at GeeksforGeeks.
+- **Pupil** on **Codeforces**,frequent competitor at GeeksforGeeks and leetcode.
 - **Achievements:**
   - Cryptic Hunt winner at a national-level hackathon (DTU)
    
