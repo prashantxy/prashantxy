@@ -49,15 +49,47 @@
 </p>
 </details>
 🏆 Achievements
-typescriptCopyconst achievements = {
+const achievements = {
     competitiveProgramming: {
-        problemsSolved: "1000+",
-        platforms: ["Codeforces (Pupil)", "GeeksforGeeks", "LeetCode"],
+        totalProblemsSolved: "1000+",
+        activeDays: "300+",
+        platforms: {
+            codeforces: {
+                rank: "Pupil",
+                rating: "1300+",
+                problemsSolved: "200+"
+            },
+            leetcode: {
+                
+                rating: "1700+",
+                problemsSolved: "500+",
+                contestsParticipated: "10+"
+            },
+            geeksforGeeks: {
+                
+                problemsSolved: "300+",
+                Rating : "4 star 1800"
+            }
+        },
+        specializations: ["Dynamic Programming", "Graph Algorithms", "Tree Algorithms"]
     },
+
     competitions: {
-        hackathons: ["Cryptic Hunt Winner (DTU)"],
-        global: ["NASA Space App Challenge Winner 2024 Global Nominee"]
-    }
+        hackathons: [{
+            name: "Cryptic Hunt Winner",
+            organizer: "Delhi Technological University (DTU)",
+            year: 2023,
+            achievement: "1st Place"
+        }],
+        globalEvents: [{
+            name: "NASA Space App Challenge",
+            year: 2024,
+            achievement: "Global Nominee",
+            impact: "Selected among 50k+ participants"
+        }],
+        
+      
+};
 }
 📊 GitHub Stats
 <div align="center">
