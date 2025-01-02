@@ -49,18 +49,24 @@
 </p>
 </details>
 🏆 Achievements
-const achievements = {
+
+
+
+const achievements =
+{
+
     competitiveProgramming: {
         totalProblemsSolved: "1000+",
         activeDays: "300+",
         platforms: {
             codeforces: {
+            
                 rank: "Pupil",
                 rating: "1300+",
                 problemsSolved: "200+"
             },
             leetcode: {
-                
+            
                 rating: "1700+",
                 problemsSolved: "500+",
                 contestsParticipated: "10+"
