@@ -1,76 +1,79 @@
-# Hi, I'm Prashant Dubey! 👋
-![DALL·E 2024-11-08 00 49 15 - An animated hacker-inspired design with a dark, neon-colored aesthetic  The design should feature digital code running in the background, glowing line](https://github.com/user-attachments/assets/24252923-60e2-434f-be20-8794552362e9)
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi there, I'm Prashant Dubey!
+</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=AI%2FML+Enthusiast;Web2+%26+Web3+Developer;App+Developer;DSA+Geek;Competitive+Programmer" alt="Typing SVG" />
+</p>
+<div align="center">
+Show Image
+Show Image
+</div>
+<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+💫 About Me:
 
+🔭 Currently exploring the depths of AI/ML and Web3
+🌱 Building DApps on Conflux & Aptos blockchain
+💻 Passionate about solving complex algorithmic problems
+🚀 Always learning and growing in the tech space
+☕ Fun fact: I debug with chai and unwind with gaming 🎮
 
-### 🚀 AI/ML Enthusiast | Web2 & Web3 Developer | App Developer | DSA Geek | Competitive Programmer
+🛠️ Technology Arsenal
+<details>
+<summary>💻 Languages</summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
+</details>
+<details>
+<summary>🤖 AI/ML & Data Science</summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>
+</p>
+</details>
+<details>
+<summary>🌐 Web Development</summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,html,css" />
+</p>
+</details>
+<details>
+<summary>⛓️ Web3 Development</summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://raw.githubusercontent.com/ConfluxNetwork/conflux-documentation/master/docs/.vuepress/public/logo.svg" width="50" height="50"/>
+</p>
+</details>
+🏆 Achievements
+typescriptCopyconst achievements = {
+    competitiveProgramming: {
+        problemsSolved: "1000+",
+        platforms: ["Codeforces (Pupil)", "GeeksforGeeks", "LeetCode"],
+    },
+    competitions: {
+        hackathons: ["Cryptic Hunt Winner (DTU)"],
+        global: ["NASA Space App Challenge Winner 2024 Global Nominee"]
+    }
+}
+📊 GitHub Stats
+<div align="center">
+Show Image<br/>
+Show Image
+</div>
+🎯 Profile Views
+<div align="center">
+Show Image
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantxy&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-dubey-59826521b/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/prashantxy)
-
----
-
-### 💡 About Me:
-- 🌱 I’m currently focusing on **AI/ML** projects and Web3 Development.
-- 🔭 I’m building decentralized applications on **Conflux** and working with **Aptos** blockchain.
-- 🤖 Passionate about **competitive programming** with a keen interest in **DSA**.
-- 💻 Always learning new tech and frameworks to enhance my skills.
-
----
-
-### ⚡ Tech Stack:
-
-#### 💻 **Languages:**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### 🔍 **AI/ML & Data Science:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-#### 🌐 **Web2 & Web3 Development:**
-- **Frontend:**
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-- **Backend:**
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-- **Web3:**
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-  ![Conflux](https://img.shields.io/badge/Conflux-1A9AD7?style=flat-square&logo=conflux&logoColor=white)
-
-#### 📱 **App Development:**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-### 🏆 Competitive Programming:
-- Solved **1000+ problems** on multiple platforms.
-- **Pupil** on **Codeforces**,frequent competitor at GeeksforGeeks and leetcode.
-- **Achievements:**
-  - Cryptic Hunt winner at a national-level hackathon (DTU)
-   
-  - Nasa Space App Challenge Winner 2024 Global Nominee
-
----
-
-
-
-### 📈 Stats:
-![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantxy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantxy&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun Fact:
-I love cracking algorithms while sipping chai ☕ and I enjoy gaming during my downtime 🎮!
-
----
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+together!" alt="Typing SVG" />
+</p>
