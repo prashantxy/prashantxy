@@ -61,13 +61,13 @@ const achievements =
         platforms: {
             codeforces: {
             
-                rank: "Pupil",
-                rating: "1300+",
+                
+                rating: "1000+",
                 problemsSolved: "200+"
             },
             leetcode: {
             
-                rating: "1700+",
+                rating: "1600+",
                 problemsSolved: "500+",
                 contestsParticipated: "10+"
             },
