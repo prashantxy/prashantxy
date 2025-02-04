@@ -84,7 +84,7 @@ const achievements =
         hackathons: [{
             name: "Cryptic Hunt Winner",
             organizer: "Delhi Technological University (DTU)",
-            year: 2023,
+            year: 2024,
             achievement: "1st Place"
         }],
         globalEvents: [{
