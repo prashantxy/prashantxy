@@ -62,14 +62,14 @@ const achievements =
             codeforces: {
             
                 
-                rating: "1000+",
-                problemsSolved: "200+"
+                rating: "1300+",
+                problemsSolved: "300+"
             },
             leetcode: {
             
-                rating: "1600+",
-                problemsSolved: "500+",
-                contestsParticipated: "10+"
+                rating: "1700+",
+                problemsSolved: "600+",
+                contestsParticipated: "20+"
             },
             geeksforGeeks: {
                 
