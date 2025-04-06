@@ -62,8 +62,8 @@ const achievements =
             codeforces: {
             
                 
-                rating: "1300+",
-                problemsSolved: "300+"
+                rating: "1500+",
+                problemsSolved: "400+"
             },
             leetcode: {
             
